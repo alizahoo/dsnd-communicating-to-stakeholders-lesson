@@ -30,6 +30,15 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
+### Salary.ipynb
+This notebook provides an overview of the relationship of variables with salary and job satisfaction.
+
+### HowToBreakIntoTheField.ipynb
+Provides an overview of how others help you break into the field.
+
+### BootcampStats.ipynb
+The notebook helps us explore if the bootcamp helps student in the getting a grad placement.
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
